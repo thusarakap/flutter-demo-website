@@ -21,7 +21,7 @@ class HeroSection extends StatelessWidget {
         color: Colors.blue[50],
         borderRadius: BorderRadius.circular(16),
       ),
-      margin: const EdgeInsets.symmetric(vertical: 20, horizontal: 10),
+      margin: const EdgeInsets.only(top: 10, bottom:15, left: 10, right: 10),
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
