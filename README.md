@@ -1,16 +1,9 @@
-# flutter_demo_website
+# Flutter Demo Website
 
-A new Flutter project.
+Flutter demo site to test web development using flutter built according to Material 3 design.
 
-## Getting Started
+Uses Provider state-management for expanding the About Us section.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots:
+![pika-1725369068721-1x](https://github.com/user-attachments/assets/4970e08a-e065-4e13-bcaa-d1a224ecac8f)
+![pika-1725369156293-1x](https://github.com/user-attachments/assets/eceba149-eddd-474c-bb7e-f68b34052f77)
