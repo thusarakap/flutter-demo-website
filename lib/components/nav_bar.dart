@@ -32,7 +32,7 @@ class NavBar extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(left: 15, top: 10),
             child: Image.asset(
-              'assets/axcertro_logo.png',
+              'assets/axcertro_logo_nobg.png',
               height: 80,
               width: 50 * 474 / 105, 
             ),
