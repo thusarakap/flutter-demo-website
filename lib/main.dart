@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Flutter Demo - thusarakap',
       theme: ThemeData(
         scaffoldBackgroundColor: const Color.fromARGB(255, 250, 247, 247),
         textTheme: GoogleFonts.interTextTheme(
